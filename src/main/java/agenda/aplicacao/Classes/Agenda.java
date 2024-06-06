@@ -1,7 +1,5 @@
 package agenda.aplicacao.Classes;
 
-import java.time.ZonedDateTime;
-
 public class Agenda {
     private String task;
     private int id;
